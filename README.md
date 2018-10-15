@@ -1,1 +1,1 @@
-# packag_manager
+# package_manager
